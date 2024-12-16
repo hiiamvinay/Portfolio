@@ -1,0 +1,41 @@
+.education{
+    margin-top: 70px;
+ }
+ .education-title{
+     margin-left: 40px;
+     font-size: 27px;
+     color:rgb(86, 26, 146);
+ }
+
+ 
+ .education-1{
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 60px;
+ }
+
+ #education-1-img{
+    height: 300px;
+    width: auto;
+
+ }
+
+ .education-1-img-class{
+    margin-left: 60px;
+    box-shadow: 0px 0px 1px 1px lightgray;
+    
+
+ }
+ .about-inst{
+    margin-left: 85px;
+
+ }
+
+ #jk{
+    font-size: 40px;
+ }
+
+ .h{
+    margin-bottom: 0px;
+    margin-top: 0px;
+ }
